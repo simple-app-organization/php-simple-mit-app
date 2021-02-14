@@ -1,0 +1,6 @@
+{
+    "require": {
+        "eftec/bladeone": "^3.37",
+        "erusev/parsedown": "^1.7"
+    }
+}
